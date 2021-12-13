@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+title: FOSS Sustainability
+logo: /assets/img/lifesaver.png
+description: Overview of FOSS/Open Source Sustainability and Pay The Maintainers movements.
+show_downloads: false
+google_analytics: 
+
+author: Shane Curcuru
+twitter:
+  username: shanecurcuru
+  card: summary
+social:
+  name: Punderthings℠ LLC
+  links:
+    - http://punderthings.com/
+    - http://shanecurcuru.org/
