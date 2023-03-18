@@ -29,6 +29,8 @@ Some critical open source projects used across the web are maintained by small t
 
 - [Nadia Eghbal's lemonade-stand list of funding resources](https://github.com/nayafia/lemonade-stand) for how smaller FOSS groups can find funding.
 
+- Read about some [definitions of "project health"](/health), focusing on the sustainability of individual communities.
+
 ### Brought to you by Punderthings℠ - your Open Source Lifesaver!
 
 Need more help?  Contact Shane @ [Punderthings℠ Consulting](http://punderthings.com) for expert advice on all things open source - trademarks/branding and community building are our specialty!
