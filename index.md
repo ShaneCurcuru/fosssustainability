@@ -23,7 +23,7 @@ Some critical open source projects used across the web are maintained by small t
   - [GitHub Sponsors](https://github.com/sponsors) lets you sponsor individual GitHub projects with monthly donations.
   - [BountySource](https://www.bountysource.com/), [Liberapay](https://liberapay.com/), [IssueHunt](https://issuehunt.io/) each offer smaller scale funding tools, and [Patreon](https://www.patreon.com/) is sometimes used for software projects too. 
 
-- Not sure what all these terms mean? Try [TL;DR FOSS](https://tldrfoss.com/) and [FOSS Funding](https://fossfunding.com/) for links to key websites.
+- Not sure what all these terms mean? Try [TL;DR FOSS](https://tldrfoss.com/) or [FOSS Funding](https://fossfunding.com/) for more topics on funding.
 
 - Is your project looking to improve your governance? [Read about FOSS Governance](https://opensource.guide/leadership-and-governance/) and then [choose the right foundation](http://chooseafoundation.com/) for your community!
 
