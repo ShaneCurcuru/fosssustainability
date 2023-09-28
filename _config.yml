@@ -15,6 +15,9 @@ social:
     - http://punderthings.com/
     - http://shanecurcuru.org/
 
+include:
+  - _pages
+
 collections:
   aspects:
     output: true
