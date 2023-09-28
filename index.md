@@ -4,17 +4,22 @@ layout: default
 
 ## What Is Open Source Sustainability?
 
-Open source is built by individuals from around the world - may of whom are not paid a wage _(or anything!)_ for their work.  "Open Source Sustainability" is a movement to change the software ecosystem - contributors and users alike - to ensure better financial sustainability for the people who build the most important FOSS projects we all rely on.
+Open source is built by individuals from around the world - may of whom are not paid a wage _(or anything!)_ for their work.  "Open Source Sustainability" is a movement to change the software ecosystem - contributors and users alike - to ensure better financial sustainability for the people and organizations who build the most important FOSS projects we all rely on.
 
 ## What Is "Pay The Maintainers" All About?
 
 Some critical open source projects used across the web are maintained by small teams of unpaid individuals.  The maintainers are the ones in charge of a project's repository and making new releases - either to fix bugs, or address security issues.  "Paying the maintainers" means finding ways to compensate maintainers for this often unpaid labor.
 
+## How Else Can I Think About Sustainability?
+
+Sustainability of open source touches on many, many different realms of thought and action, and is a new field for many practitioners.  Reviewing the [key aspects of sustainability](/aspects/) provides a framework to understand different areas of sustainability.
+
 ## Where can I go to learn more?
 
-- Start by [reading the guide Getting Paid for Open Source Work](https://opensource.guide/getting-paid/) for a holistic overview of how to think about approaching fundraising or donations for your FOSS work, and [tips for maintainers](https://opensource.guide/best-practices/) too.
-
 - [Sustain OSS](https://sustainoss.org/) is a group of experienced FOSS volunteers from many projects [running events](https://sustainoss.org/events/), and writing guides for everything about making open source sustainable - not just financially.  Read their [2021 report on the state of FOSS sustainability](https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf).
+- Read the [Getting Paid for Open Source Work guide](https://opensource.guide/getting-paid/) for a holistic overview of how to think about approaching fundraising or donations for your FOSS work, and [tips for maintainers](https://opensource.guide/best-practices/) too.
+
+
 
 - Is your project **looking for funding**?  Check out these organizations:
   - [TideLift](https://tidelift.com/) helps large software users to manage their dependency risk by paying groups of maintainers.
