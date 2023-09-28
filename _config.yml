@@ -14,3 +14,24 @@ social:
   links:
     - http://punderthings.com/
     - http://shanecurcuru.org/
+
+collections:
+  aspects:
+    output: true
+    permalink: /:collection/:path
+
+defaults:
+  - scope:
+      path: ""
+      type: "aspects"
+    values:
+      layout: "aspects"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
