@@ -22,6 +22,9 @@ collections:
   aspects:
     output: true
     permalink: /:collection/:path
+  governance:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   - scope:
@@ -29,6 +32,11 @@ defaults:
       type: "aspects"
     values:
       layout: "aspects"
+  - scope:
+      path: ""
+      type: "governance"
+    values:
+      layout: "governance"
   - scope:
       path: ""
       type: "posts"

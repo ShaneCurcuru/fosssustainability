@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+
+<blockquote><p>{{ page.description }}</p></blockquote>
+
+{{content}}
+
+{% if page.keywords %}
+  <small>Keywords: <em>{{ page.keywords | join: "</em> | <em>" }}</em></small>
+{% endif %}
+
+<ul>
+  {% for ref in page.refs %}
+  <li><a href="{{ ref.url }}">{{ ref.aspect }}</a>{% if ref.excerpt %}<small> - {{ ref.excerpt }}</small>{% endif %}</li>
+  {% endfor %}
+</ul>
