@@ -6,6 +6,8 @@ layout: default
 
 <hr id="tagindex"/>
 
+All aspects by <a href="#vocabulary">Vocabulary</a> | <a href="#timescale">Timescale</a> | <a href="#scope">Scope</a> | <a href="#relationship">Relationship</a>
+
 {% assign vocabs =  site.aspects | map: 'vocabulary' | uniq %}
 <h3 id="vocabulary">Vocabulary</h3>
 <p>What kinds of vocabulary or taxonomy that are most effective when working with these kinds of groups.</p>
@@ -36,7 +38,7 @@ layout: default
   </ul>
 {% endfor %}
 
-{% assign relationships =  site.aspects | map: 'scope' | uniq %}
+{% assign relationships =  site.aspects | map: 'relationship' | uniq %}
 <h3 id="relationship">Relationship</h3>
 <p>Other groups or aspects this group directly connects to/is similar to/often considers in their work.</p>
 {% for relationship in relationships %}
