@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="sustainability_aspect" itemscope itemtype="http://schema.org/Article">
+  {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: '%B %d, %Y' }}">{% endif %}
+  <h1 id="name"><a href="#name" class="anchor-heading" aria-labelledby="name"></a> 
+    {{ page.title }}
+  </h1>
+
+  <blockquote><p itemprop="abstract">{{ page.excerpt }}</p></blockquote>
+
+  <h2 id="relationships">Relationships With Other Aspects</h2>
+  {% if page.vocabulary %}<abbr title="What kinds of vocabulary or taxonomy to use with this group.">Vocabularies used</abbr>: <span itemprop="vocabulary">{{ page.vocabulary | join: ", " }}</span><br/>{% endif %}
+  {% if page.timescale %}<abbr title="Timescale to create change in this context.">Timescale aspect changes</abbr>: <span itemprop="timescale">{{ page.timescale | join: ", " }}</span><br/>{% endif %}
+  {% if page.scope %}<abbr title="How broad an effect one member of this group has.">Scope of aspect</abbr>: <span itemprop="scope">{{ page.scope | join: ", " }}</span><br/>{% endif %}
+  {% if page.relationship %}<abbr title="Other aspects this group directly connects to/is similar to.">Relationship with other aspects</abbr>: <span itemprop="relationship">{{ page.relationship | join: ", " }}</span><br/>{% endif %}
+  {% if page.primary %}<abbr title="The primary focus of this group or aspect.">Primary focus</abbr>: <span itemprop="primary">{{ page.primary | join: ", " }}</span><br/>{% endif %}
+
+  <hr id="maincontent"/>
+
+  {{ content }}
+
+  {% if page.tags %}
+  <small>Tags: <em>{{ page.tags | join: "</em> | <em>" }}</em></small>
+  {% endif %}
+</article>

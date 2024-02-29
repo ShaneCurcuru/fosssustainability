@@ -2,12 +2,46 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+{{ content }}
 
-<blockquote><p>{{ page.excerpt }}</p></blockquote>
+<hr id="tagindex"/>
 
-{{content}}
+{% assign vocabs =  site.aspects | map: 'vocabulary' | uniq %}
+<h3 id="vocabulary">Vocabulary</h3>
+<p>What kinds of vocabulary or taxonomy that are most effective when working with these kinds of groups.</p>
+{% for vocab in vocabs %}
+  <h4>{{ vocab | capitalize }}</h4>
+  <ul>
+  {% for aspect in site.aspects %}{% if aspect.vocabulary contains vocab %}<li><a href="{{ site.baseurl }}{{ aspect.url }}">{{ aspect.title }}</a></li>{% endif %}{% endfor %}
+  </ul>
+{% endfor %}
 
-{% if page.tags %}
-  <small>Tags: <em>{{ page.tags | join: "</em> | <em>" }}</em></small>
-{% endif %}
+{% assign timescales =  site.aspects | map: 'timescale' | uniq %}
+<h3 id="timescale">Timescale</h3>
+<p>Timescale typically needed to create significant behavior change in this group.</p>
+{% for timescale in timescales %}
+  <h4>{{ timescale | capitalize }}</h4>
+  <ul>
+  {% for aspect in site.aspects %}{% if aspect.timescale contains timescale %}<li><a href="{{ site.baseurl }}{{ aspect.url }}">{{ aspect.title }}</a></li>{% endif %}{% endfor %}
+  </ul>
+{% endfor %}
+
+{% assign scopes =  site.aspects | map: 'scope' | uniq %}
+<h3 id="scope">Scope</h3>
+<p>How broad an effect changes in behavior that one member of this group may have.</p>
+{% for scope in scopes %}
+  <h4>{{ scope | capitalize }}</h4>
+  <ul>
+  {% for aspect in site.aspects %}{% if aspect.scope contains scope %}<li><a href="{{ site.baseurl }}{{ aspect.url }}">{{ aspect.title }}</a></li>{% endif %}{% endfor %}
+  </ul>
+{% endfor %}
+
+{% assign relationships =  site.aspects | map: 'scope' | uniq %}
+<h3 id="relationship">Relationship</h3>
+<p>Other groups or aspects this group directly connects to/is similar to/often considers in their work.</p>
+{% for relationship in relationships %}
+  <h4>{{ relationship | capitalize }}</h4>
+  <ul>
+  {% for aspect in site.aspects %}{% if aspect.relationship contains relationship %}<li><a href="{{ site.baseurl }}{{ aspect.url }}">{{ aspect.title }}</a></li>{% endif %}{% endfor %}
+  </ul>
+{% endfor %}

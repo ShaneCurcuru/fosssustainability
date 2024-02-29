@@ -31,7 +31,7 @@ defaults:
       path: ""
       type: "aspects"
     values:
-      layout: "aspects"
+      layout: "aspect"
   - scope:
       path: ""
       type: "governance"

@@ -11,10 +11,13 @@ Discussing *open source sustainability* with any four people will quickly bring 
 
 Even if we confine sustainability to just "common open source projects", the important points may be **very** different for someone working in a software company, versus lone maintainers, versus academics, or anyone else.  This site offers context to discussions with a framework of major aspects to consider.
 
-Some key aspects - or different ways to think about sustainability - are:
+## Sustainability Aspects
 
 <ul>
 {% for aspect in site.aspects %}
 <li><a href="{{ aspect.url }}">{{ aspect.title }}</a>{% if aspect.excerpt %}<small> - {{ aspect.excerpt }}</small>{% endif %}</li>
 {% endfor %}
 </ul>
+
+## Relationships Between Aspects
+
