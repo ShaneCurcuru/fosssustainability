@@ -11,12 +11,13 @@ layout: default
   <blockquote><p itemprop="abstract">{{ page.excerpt }}</p></blockquote>
 
   <h2 id="relationships">Relationships With Other Aspects</h2>
-  {% if page.vocabulary %}<abbr title="What kinds of vocabulary or taxonomy to use with this group.">Vocabularies used</abbr>: <span itemprop="vocabulary">{% for itm in page.vocabulary %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>{% endfor %}</span><br/>{% endif %}
-  {% if page.timescale %}<abbr title="Timescale to create change in this context.">Timescale aspect changes</abbr>: <span itemprop="timescale">{% for itm in page.timescale %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>{% endfor %}</span><br/>{% endif %}
-  {% if page.scope %}<abbr title="How broad an effect one member of this group has.">Scope of aspect</abbr>: <span itemprop="scope">{% for itm in page.scope %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>{% endfor %}</span><br/>{% endif %}
-  {% if page.relationship %}<abbr title="Other aspects this group directly connects to/is similar to.">Relationship with other aspects</abbr>: <span itemprop="relationship">{% for itm in page.relationship %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>{% endfor %}</span><br/>{% endif %}
-  {% if page.primary %}<abbr title="The primary focus of this group or aspect.">Primary focus</abbr>: <span itemprop="primary">{{ page.primary | join: ", " }}</span><br/>{% endif %}
-
+  <div class="topiclist">
+  {% if page.vocabulary %}<abbr title="What kinds of vocabulary or taxonomy that are most effective when working with these kinds of groups.">Vocabularies used</abbr>: <span itemprop="vocabulary">{% for itm in page.vocabulary %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>, {% endfor %}</span><br/>{% endif %}
+  {% if page.timescale %}<abbr title="Timescale typically needed to create significant behavior change in this group.">Timescale aspect changes</abbr>: <span itemprop="timescale">{% for itm in page.timescale %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>, {% endfor %}</span><br/>{% endif %}
+  {% if page.scope %}<abbr title="How broad an effect changes in behavior that one member of this group may have.">Scope of aspect</abbr>: <span itemprop="scope">{% for itm in page.scope %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>, {% endfor %}</span><br/>{% endif %}
+  {% if page.relationship %}<abbr title="Other groups or aspects this group directly connects to/is similar to/often considers in their work.">Relationship with other aspects</abbr>: <span itemprop="relationship">{% for itm in page.relationship %}<a href="/aspects/#{{ itm }}">{{ itm }}</a>, {% endfor %}</span><br/>{% endif %}
+  {% if page.primary %}<abbr title="The primary focus of this group or aspect; how they'd relate to sustainability.">Primary focus</abbr>: <span itemprop="primary">{{ page.primary | join: ", " }}</span><br/>{% endif %}
+  </div>
   <hr id="maincontent"/>
 
   {{ content }}
