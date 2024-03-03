@@ -43,3 +43,8 @@ Education's importance to sustainability is everywhere: from core STEM concepts 
 Academic researchers have many ways to coordinate, amplify, and discover research.  How do we build more connections with contributors/maintainers, foundations, and companies to make use of sustainability research?
 
 How sustainable are academic software projects and data sets?  Are there ways to help academics build sustainable practices into their code work as well as their current research papers?
+
+## Ideas and References
+
+- [Teaching Open Source wiki about curriculum sharing](https://teachingopensource.org/Main_Page)
+- [The Sustainability of Open Source Commons](https://www.zotero.org/groups/5030713/foss-sustainability/tags/digital%20commons/items/PFGX45SI/library) review of multiple studies on FOSS and Ostrom

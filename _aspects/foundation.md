@@ -52,3 +52,9 @@ Foundations are typically distinct from traditional software companies in terms 
 How can foundations focus their efforts on broader sustainability issues?  For volunteer-run foundations, it's often difficult to find the time to build larger programs that focus outside their project(s).
 
 How do we model the project services of foundations?  Over at [ChooseAFoundation](http://chooseafoundation.com/) there's a brief guide between some popular foundations, but what if we could provide a richer model of services provided to new communities?
+
+## Ideas and Resources
+
+- [Foundations and Other Organisations](https://www.zotero.org/groups/5030713/foss-sustainability/tags/government/items/UH98SGD2/library), Open Source Law, Policy and Practice
+- [Being a Mentor in open source projects](https://www.zotero.org/groups/5030713/foss-sustainability/tags/community/items/GBM87K2E/library)
+- [Mautic Community Handbook](https://www.zotero.org/groups/5030713/foss-sustainability/tags/community/items/R9VAHK4C/library)

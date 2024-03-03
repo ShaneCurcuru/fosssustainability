@@ -52,3 +52,7 @@ Many projects do not have maintainers, but rather emphasize a Project Management
 
 Maintainers have plenty of perspective and connections - how can this be harnessed at scale in an organized fashion to help promote other sustainability aspects?  Many of the maintainers crying out for funding still promote the personal perspective, not necessarily the ecosystem or public policy perspective.
 
+## Ideas and References
+
+- [OSS Fund listing of pay the maintainers platforms](https://www.zotero.org/groups/5030713/foss-sustainability/tags/paythemaintainers/items/RZJ9B9ED/library)
+- [The Maintainers Community](https://www.zotero.org/groups/5030713/foss-sustainability/tags/maintainers/items/2IF4QJVW/library) while not specifically software focused, advocating for the maintainer mindset

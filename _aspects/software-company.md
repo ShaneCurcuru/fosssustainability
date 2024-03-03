@@ -48,3 +48,9 @@ Software companies vary widely in their knowledge of FOSS and their internal pol
 Is "Software Companies" a good enough category, or are the ways you might talk to a company about sustainability fundamentally change if the company is already a major FOSS contributor or not?  What are the differences between companies that lead a FOSS project; or that have a reputation for participating in multiple FOSS projects; versus companies seen as primarily uninvolved?
 
 For companies interested in sponsoring maintainers, what corporate process hurdles do they have?  How do companies update policies to make it simpler to fund individuals or non-traditional companies for work on FOSS they depend on?
+
+## Ideas and References
+
+- Dirk Riehle: [A Research Model for the Economic Assessment of Inner Source Software Development](https://www.zotero.org/groups/5030713/foss-sustainability/items/ZCWQHE3W/library)
+- [The Inextricable Role of Organizational Sponsorship for Open Source Sustainability](https://www.zotero.org/groups/5030713/foss-sustainability/tags/corporate/items/53CU8C5K/library)
+- [Economics of Open Source](https://www.zotero.org/groups/5030713/foss-sustainability/tags/government/items/X6C6IBR8/library), Open Source Law, Policy and Practice

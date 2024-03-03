@@ -39,3 +39,9 @@ Contributors are the lifeblood of any project.  Contributors submit new code, de
 Every individual who directly or indirectly submits work (code, docs, whatever) to a project can be thought of as a contributor.  Many contributors come and go within one or more projects.  Some contributors make a habit of contributing to specific projects on a regular basis.  Regular contributors are often made into committers, or people with direct write access to project resources.
 
 Cultivating a steady flow of new contributors to a project is a key factor in individual project sustainability.
+
+## Ideas and References
+
+- [First Timers Only](https://www.zotero.org/groups/5030713/foss-sustainability/tags/newcomers/items/IV2CXGXM/library) a holistic guide for newcomers to FOSS
+- [Attracting and Retaining OSS Contributors with a Maintainer Dashboard](https://www.zotero.org/groups/5030713/foss-sustainability/tags/contributors/items/X4L6432Z/library)
+

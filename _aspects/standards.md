@@ -41,3 +41,8 @@ A wide variety of NGOs in technical spaces set the de facto (or de jure) standar
 How can we quantify the effects that standards (technical or governmental) have on the rest of the ecosystem in an easily understandable way?
 
 What kinds of RAND or other IP policy regimes in standards affect sustainability?  How do we define truly open standards that commercial entities and small open source projects can both implement fairly and equally?
+
+## Ideas and References
+
+- [Digital Public Goods Alliance](https://www.zotero.org/groups/5030713/foss-sustainability/tags/standard/items/J76L757F/library) a higher conceptual level of standards around software
+- [ Open Source Software in Standard Setting: The Role of Intellectual Property Right Regimes](https://www.zotero.org/groups/5030713/foss-sustainability/tags/government/items/XJMISQ6Z/library), Open Source Law, Policy and Practice
