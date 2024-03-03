@@ -13,7 +13,7 @@ Even if we confine sustainability to just "common open source projects", the imp
 
 ## Sustainability Aspects
 
-Each of these constituencies has their own needs and abilities to effect change; they also often have different vocabularies for talking about the issues.  Review a few of these groups, and see what commonalities are there if we could only more easily translate the vocabularies.
+Each of these constituencies has their own needs and abilities to effect change; they also often have different vocabularies for talking about the issues.  Review a few of these groups, and see what commonalities are there if we could only more easily translate the vocabularies.  These span the perspective from the [average computer user](https://fosssustainability.com/aspects/user), to the [entire ecosystem of computing](https://fosssustainability.com/aspects/ecosystem).
 
 <ul>
 {% for aspect in site.aspects %}
