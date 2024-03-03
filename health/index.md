@@ -15,6 +15,7 @@ When considering a single FOSS project community, we can consider the health of 
 - Several groups have defined useful if simplistic manual checklists for project health, like [VMWare](https://github.com/vmware-tanzu/community-engagement/blob/main/HEALTHCHECKS.md) and [Red Hat](https://www.redhat.com/en/resources/open-source-project-health-checklist).
 - The ASF has a [Maturity Model for Apache Projects](https://community.apache.org/apache-way/apache-project-maturity-model.html), where many factors are applicable for any community-led project.
 - The Linux Foundation [Insights platform provides dashboard health metrics](https://insights-v2.lfx.linuxfoundation.org/projects) for their projects.
+- FOSS Backstage: [A Strategic Approach to Assessing Viability of OSS Projects](https://24.foss-backstage.de/sessions/?id=3DHGWR), Dawn Foster
 
 
 ### References & Bibliography

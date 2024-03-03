@@ -36,6 +36,16 @@ Note that US 990 tax filings take a long time to show up publicly, so data is al
 
 Current [raw data as CSV](https://github.com/Punderthings/fossfoundation/blob/main/_data/p990/foundations_990_common.csv) and [partial source 990 data as json](https://github.com/Punderthings/fossfoundation/tree/main/_data/p990) via [ProPublica](https://projects.propublica.org/nonprofits/api).
 
+## See the FOSS Backstage Sustainability Track
+
+- [Adventures with Open Source Business Models](https://24.foss-backstage.de/sessions/?id=AMDURF), Tarus Balog
+- [Aligning wishes of multiple orgs into an open source project](https://24.foss-backstage.de/sessions/?id=UCPFAJ), Thomas Steenbergen & Nick Vidal
+- [Bridging Both Sides: A FOSS Funding LARP](https://24.foss-backstage.de/sessions/?id=RPNDEV), Carolyn Beer, Eric Bear, & ngọc triệu
+- [Success through a thousand emails: Fundraising and outreach](https://24.foss-backstage.de/sessions?id=PWXM7V), Dawn Wages
+- [The Cuckoo in Bidding: When the Manufacturer Loses to Itself](https://24.foss-backstage.de/sessions?id=YRNQMR), Peer Heinlein & Daniel Zielke
+- [Why is there no new Release? Nobody pays for the basics :-(](https://24.foss-backstage.de/sessions?id=LQUUXM), Schlomo Schapiro & Gratien Dhaese
+- [Who Funds FOSS Foundations?](https://24.foss-backstage.de/sessions?id=WNHFDT), Shane Curcuru
+
 ## Thanks and Credits
 
 This presentation is based on my [Who Pays For FOSS Foundations?](https://shaneslides.com/2023/10/FOSS-Foundation-Funding/?s=fb) slide deck, but is completely reworked with new data and concepts for the FOSS Backstage crowd.
