@@ -36,6 +36,8 @@ Note that US 990 tax filings take a long time to show up publicly, so data is al
 
 Current [raw data as CSV](https://github.com/Punderthings/fossfoundation/blob/main/_data/p990/foundations_990_common.csv) and [partial source 990 data as json](https://github.com/Punderthings/fossfoundation/tree/main/_data/p990) via [ProPublica](https://projects.propublica.org/nonprofits/api).
 
+See also: [Kara Sowles](https://twitter.com/FeyNudibranch/)'s excellent [FOSDEM State of Funding Free & Open Source Software](https://fosdem.org/2024/schedule/event/fosdem-2024-2751-the-state-of-funding-free-open-source-software/). 
+
 ## See the FOSS Backstage Sustainability Track
 
 - [Adventures with Open Source Business Models](https://24.foss-backstage.de/sessions/?id=AMDURF), Tarus Balog
