@@ -16,6 +16,7 @@ When considering a single FOSS project community, we can consider the health of 
 - The ASF has a [Maturity Model for Apache Projects](https://community.apache.org/apache-way/apache-project-maturity-model.html), where many factors are applicable for any community-led project.
 - The Linux Foundation [Insights platform provides dashboard health metrics](https://insights-v2.lfx.linuxfoundation.org/projects) for their projects.
 - FOSS Backstage: [A Strategic Approach to Assessing Viability of OSS Projects](https://24.foss-backstage.de/sessions/?id=3DHGWR), Dawn Foster
+- OpenSSF Scorecard: [measuring OSS project health in terms of security issues](https://scorecard.dev/).
 
 
 ### References & Bibliography
@@ -23,3 +24,5 @@ When considering a single FOSS project community, we can consider the health of 
 [^1]: Johan Linåker, Efi Papatheocharous, and Thomas Olsson. 2022. How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice. In The 18th International Symposium on Open Collaboration (OpenSym 2022), September 7–9, 2022, Madrid, Spain. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3555051.3555067
 [^2]: Jansen, S. (2014). Measuring the health of open source software ecosystems: Beyond the scope of project health. Information and Software Technology, 56(11), 1508-1519. DOI: https://doi.org/10.1016/j.infsof.2014.04.006 
 [^3]: Manikas, K., & Hansen, K. M. (2013). Reviewing the health of software ecosystems–a conceptual framework proposal. In Proceedings of the 5th international workshop on software ecosystems (IWSECO) (pp. 33-44). https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5c99687980b082557f973b176cd6d693648066c9#page=30
+
+More [research on project health is in our Zotero library](https://www.zotero.org/groups/5030713/foss-sustainability/tags/health/search/health/titleCreatorYear/item-list).

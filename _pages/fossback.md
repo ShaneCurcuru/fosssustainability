@@ -6,7 +6,7 @@ title: FOSS Backstage Session Notes Page
 
 ## FOSS Backstage 2024: Who Funds FOSS Foundations?
 
-Welcome - this is a page of notes and references for my [FOSS Backstage](https://24.foss-backstage.de/about/) talk in Berlin about "[Who Funds FOSS Foundations?](https://24.foss-backstage.de/sessions/?id=WNHFDT)"  Most links here are to open source sites that appreciate your contributions!
+Welcome - this is a page of notes and references for my [FOSS Backstage](https://24.foss-backstage.de/about/) talk in Berlin about "[Who Funds FOSS Foundations?](https://24.foss-backstage.de/sessions/?id=WNHFDT)"  Most links here are to open source sites that appreciate your contributions, just like this site does!
 
 **Questions?**  I'm @ShaneCurcuru on social media.
 

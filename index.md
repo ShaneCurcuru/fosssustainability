@@ -12,7 +12,7 @@ Some critical open source projects used across the web are maintained by small t
 
 ## How Else Can I Think About Sustainability?
 
-Sustainability of open source touches on many, many different realms of thought and action, and is a new field for many practitioners.  Reviewing the [key aspects of sustainability](/aspects/) provides a framework to understand different areas of sustainability.  The kinds of issues and factors that a sole maintainer cares about may be very different than those of a [foundation](/aspects/foundation/), or an academic researcher thinking about long-term ecosystem health.
+Sustainability of open source touches on many, many different realms of thought and action, and is a new field for many practitioners.  Reviewing the [key aspects of sustainability](/aspects/) provides a framework to understand different areas of sustainability.  The kinds of issues and factors that a sole maintainer cares about may be very different than those of a [foundation](/aspects/foundation/), or an academic researcher thinking about long-term ecosystem health.  We focus primarily on the social and financial sustainability of the people writing critical open source, as well as reliability and security of the open source software ecosystem as a whole.
 
 ## Where can I go to learn more?
 
