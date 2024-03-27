@@ -12,8 +12,8 @@ twitter:
 social:
   name: Punderthings℠ LLC
   links:
-    - http://punderthings.com/
-    - http://shanecurcuru.org/
+    - https://punderthings.com/
+    - https://shanecurcuru.org/
 
 include:
   - _pages

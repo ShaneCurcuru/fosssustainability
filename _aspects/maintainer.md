@@ -6,6 +6,11 @@ tags:
 refs:
   - https://en.wikipedia.org/wiki/Software_maintainer
   - https://chaoss.community/kbtopic/community/
+  - https://github.com/cncf/project-template/blob/main/CONTRIBUTOR_LADDER.md#maintainer
+  - https://opensource.com/article/21/8/open-source-maintainers
+  - https://matthewrocklin.com/blog/2019/05/18/maintainer
+  - https://blogs.vmware.com/opensource/2019/06/11/open-source-maintainer-best-practices/
+  - https://dev.to/opensauced/so-youre-interested-in-being-an-open-source-maintainer-5bb2
 vocabulary:
   - technical
   - governance
@@ -21,13 +26,13 @@ primary:
   - project
 ---
 
-As creators and leaders of organized software projects, maintainers very much wonder why their work often isn't financially recognized.
+As creators and leaders of organized software projects, maintainers often wonder why their work isn't financially recognized.
 
 ## Sustainability Aspects
 
 Maintainers **understand** their projects, ecosystem, and often the scope of the companies that use their software.
 
-Maintainers **are** organized in terms of project work, but often don't have any legal or financial structures around their project.
+Maintainers **are** organized in terms of project work, but may not have any legal or financial structures around their project.
 
 Maintainers **vary widely** in their knowledge and skills around self-marketing, taxes, and managing businesses; many may not want to create a business to better accept funding.
 
