@@ -4,7 +4,7 @@ layout: default
 
 <article class="sustainability_aspect" itemscope itemtype="http://schema.org/Article">
   {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: '%B %d, %Y' }}">{% endif %}
-  <h1 id="name"><a href="#name" class="anchor-heading" aria-labelledby="name"></a> 
+  <h1 id="name" itemprop="identifier"><a href="#name" class="anchor-heading" aria-labelledby="name"></a> 
     {{ page.title }}
   </h1>
 
@@ -21,6 +21,13 @@ layout: default
   <hr id="maincontent"/>
 
   {{ content }}
+
+  <h3 id="references">Other Reference Links</h3>
+  {% if page.refs %}
+  <ul class="reflist">
+    {% for ref in page.refs %}<li><a href="{{ ref }}">{{ ref  | remove: "https://" }}</a></li>{% endfor %}
+  </ul>
+  {% endif %}
 
   {% if page.tags %}
   <small>Tags: <em>{{ page.tags | join: "</em> | <em>" }}</em></small>
