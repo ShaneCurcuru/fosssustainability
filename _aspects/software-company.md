@@ -55,3 +55,4 @@ For companies interested in sponsoring maintainers, what corporate process hurdl
 - [The Inextricable Role of Organizational Sponsorship for Open Source Sustainability](https://www.zotero.org/groups/5030713/foss-sustainability/tags/corporate/items/53CU8C5K/library)
 - [Economics of Open Source](https://www.zotero.org/groups/5030713/foss-sustainability/tags/government/items/X6C6IBR8/library), Open Source Law, Policy and Practice
 - TODO Group's segmentation of [OSPOs by organization and potential motivations](https://github.com/todogroup/ospodefinition.org?tab=readme-ov-file#basic-segmentation-beta-version)
+- [CHAOSS Metric: Organizational Influence](https://chaoss.community/?p=3560): "How much influence does an organization have on an open source community?"
