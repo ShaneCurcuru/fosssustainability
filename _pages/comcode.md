@@ -12,25 +12,27 @@ Welcome - this is a page of notes and references for my Community Over Code talk
 
 ## Session Topics
 
-I'll be covering *three* topics in my talk, and while I know it will be informative, I hope to leave attendees with a number of much more focused questions for them to think about around sustainability.
+I'll be covering *three* topics in my talk; there is a huge variety of concepts and data around how foundations are funded and what they use money for.
+
+This is such a broad topic that I may not answer all or many of your questions - my aim is to give you enough information and pointers so you can ask better questions, and be effective at starting your own research journey.
 
 ### Aspects of Sustainability
 
-Watching people talking about sustainability, I'm struck by how conversations felt very siloed depending on the experience and role of participants.  I wonder: is there some way we can [quantify or categorize the different roles of people](https://fosssustainability.com/aspects/?s=fb) in the software ecosystem, so that when we talk about sustainability, we can translate larger frameworks into the context of that person's role?
+Watching people talking about sustainability, I'm struck by how conversations felt very siloed depending on the experience and role of participants.  I wonder: is there some way we can [quantify or categorize the different roles of people](https://fosssustainability.com/aspects/?s=talk) in the software ecosystem, so that when we talk about sustainability, we can translate larger frameworks into the context of that person's role?
 
-I've proposed set of roles or groups - like contributors, maintainers, or software companies - is provided.  Being able to map the concerns from each group *in their own terms* into some larger taxonomy of sustainability terms can help both with research efforts, and with education.  I call these [Aspects Of Sustainability](https://fosssustainability.com/aspects/?s=fb).
+I've proposed set of roles or groups - like contributors, maintainers, or software companies - is provided.  Being able to map the concerns from each group *in their own terms* into some larger taxonomy of sustainability terms can help both with research efforts, and with education.  I call these [Aspects Of Sustainability](https://fosssustainability.com/aspects/?s=talk).
 
-I'm really hoping to get feedback across the ecosystem of how to make this valuable.  *Sustainability* means at least the social, financial, organizational, and security/ecosystem ability to maintain the people and software that makes the world work.  Note: not yet covered here is environmental sustainability.
+I'm really hoping to get feedback across the ecosystem of how to make this valuable.  *Sustainability* means at least the social, financial, organizational, and security/ecosystem ability to maintain the people and software that makes the world work.  *Note:* not yet covered here is environmental sustainability.
 
 ### Modeling Foundation Sponsorship Programs
 
-Most hosting foundations have sponsorship models, where corporations can donate a certain amount, and get some benefits.  The benefits and amounts different foundations 'charge' vary widely.  I've built a [model of sponsorship programs](https://fossfoundation.info/sponsorships?s=fb), and mapped actual sponsorship prospectuses to the model for a number of popular foundations.
+Most FOSS foundations have sponsorship models, where corporations can donate a certain amount, and get some benefits.  The benefits and amounts different foundations 'charge' vary widely.  I've built a [model of sponsorship programs](https://fossfoundation.info/sponsorships?s=talk), and mapped actual sponsorship prospectuses to the model for a number of popular foundations.
 
-How can we improve this model?  What other factors in the ways that foundations create sponsorship programs are important for their health?
+How can we improve this model?  What other factors in the ways that foundations create sponsorship programs are important for their health?  How do different foundations budget corporate sponsorships versus individual donations?  What research or other uses are there for this dataset?
 
 ### Comparative Financials of US Nonprofit Foundations
 
-US nonprofits all file 990 tax forms, meaning we have consistent, if high-level, income and expense data for them all.  Let's go on a journey of a handful of the major FOSS Foundations that host multiple projects, and see both what they do for projects, and how much the make and spend.
+US nonprofits all file 990 tax forms, meaning can get consistent high-level income and expense data.  Let's go on a journey of a handful of the major FOSS Foundations that host multiple projects, and see both what they do for projects, and how much the make and spend.
 
 Note that US 990 tax filings take a long time to show up publicly, so data is always a year or so back.  Also, I'm still looking for effective ways to evaluate EU charities' finances; help wanted!
 
